@@ -730,7 +730,8 @@ header {
     border-radius: 50%;
     text-align: center;
     display: block;
-    width: 157px;
+    width: 10rem;
+    height: 10rem;
     margin: auto;
     /* box-shadow: 0px 6px 12px 2px rgba(0, 0, 0, 0.15); */
     border-width: 2px;
@@ -2339,11 +2340,11 @@ li.contact-buton {
 }
 
 .hideme i {
-    color: #fff !important;
+    color: #0d0202 !important;
 }
 
 .hideme li {
-    color: #fff;
+    color: #0a0101;
     text-align: left;
 }
 
@@ -2361,7 +2362,7 @@ li.contact-buton {
 }
 
 .hideme h4 {
-    color: #fff !important;
+    color: #100000 !important;
     font-size: 25px;
     margin-bottom: 25px;
     display: block;
@@ -2401,14 +2402,8 @@ li.contact-buton {
 }
 
 .modulbox .modal-content {
-    background: #2ca01c !important;
+    background: linear-gradient(to right, #FFF95B, #FF930F) !important;
     border: none !important;
-}
-
-.modulbox .modal-header .close {
-    padding: 15px !important;
-    opacity: 1 !important;
-    outline: none;
 }
 
 .modulbox .modal-header .close i {
@@ -2452,7 +2447,7 @@ li.contact-buton {
 }
 
 .marquess {
-    background: #2ca01c;
+    background: #e9ca19;
     color: #fff;
     padding: 5px 0;
     position: fixed;
@@ -2467,10 +2462,10 @@ li.contact-buton {
     float: none;
     border: 1px solid #fff;
     border-radius: 50%;
-    height: 50px !important;
-    width: 50px !important;
+    height: 30px !important;
+    width: 30px !important;
     line-height: 50px !important;
-    margin-top: 20px;
+    margin: 10% 40%;
 }
 
 .modulbox .modal-header .close i {
