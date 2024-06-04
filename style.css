@@ -613,56 +613,56 @@ header {
             margin-bottom: 30px;
             text-align: center;
             margin-top: 0;
-}
+        }
 
-.modules-sec h4 {
+        .modules-sec h4 {
             color: #2d2d2d;
             font-weight: bold;
             font-size: 17px;
             margin-bottom: 10px;
             margin-top: 0;
-}
+        }
 
-.modules-sec p {
+        .modules-sec p {
             color: #8a8a8a;
             font-weight: 500;
             font-size: 14px;
             margin-bottom: 0;
             visibility: hidden;
             display: none;
-}
+        }
 
-.modulbox {
+        .modulbox {
             box-shadow: 0px 6px 12px 2px rgba(0, 0, 0, .07);
             padding: 15px;
             display: inline-block;
             margin: 0 15px 40px;
             width: 20%;
-}
+        }
 
-.modules-sec {
+        .modules-sec {
             text-align: center;
-}
+        }
 
-.modules-sec i {
+        .modules-sec i {
             margin-bottom: 20px;
             font-size: 45px;
             display: block;
-}
+        }
 
-.modules-section {
+        .modules-section {
             padding: 60px 0 60px;
-}
+        }
 
-.modulbox:hover h4,
-.modulbox:hover p,
-.modulbox:hover i {
+        .modulbox:hover h4,
+        .modulbox:hover p,
+        .modulbox:hover i {
             color: #2ca01c;
-}
+        }
 
-.modulbox:hover {
+        .modulbox:hover {
             box-shadow: 0px 6px 12px 2px rgba(0, 0, 0, 0.2);
-}
+        }
 
 .noremodu a {
     background: #2ca01c;
@@ -1928,7 +1928,7 @@ input[type=radio] {
 .inner-banner {
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(images/game.jpg);
+    background-image: url(images/thought-catalog-505eectW54k-unsplash.jpg);
     background-position: center center;
 }
 
@@ -1968,7 +1968,7 @@ input[type=radio] {
 }
 
 .channel-section-content {
-    background-image: url(images/game.jpg);
+    background-image: url(images/tengyart-Hcqh_QSO0kg-unsplash.jpg);
     padding: 20px 0 0;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2084,7 +2084,7 @@ button.channelbuton:hover {
 .inner-banner-career {
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(images/addGameBg.jpg);
+    background-image: url(images/clark-tibbs-oqStl2L5oxI-unsplash.jpg);
     background-position: center center;
 }
 
